@@ -5,4 +5,4 @@
 
 ## My content
 
-[[My second published notes\|My second published notes]]
+[[ENSIBS/S9/My second published notes\|My second published notes]]
