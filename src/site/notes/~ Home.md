@@ -3,6 +3,6 @@
 ---
 
 ## What is this website ?
-> This type of project is called a [[Digital Garden\|Digital Garden]]
+> This type of project is called a [[Digital Garden/Digital Garden\|Digital Garden]]
 
 
