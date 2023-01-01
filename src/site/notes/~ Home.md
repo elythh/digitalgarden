@@ -7,4 +7,4 @@
 
 # What's this page ?
 
-> This type of project is called a [[digital garden/Digital Garden\|Digital Garden]]
+> This type of project is called a [[Digital Garden/Digital Garden\|Digital Garden]]
