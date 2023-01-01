@@ -3,13 +3,8 @@
 ---
 
 
-# 🏡
+# Who am I ?
 
-## My content
+# What's this page ?
 
-[[ENSIBS/S9/My second published notes\|My second published notes]]
-
-> This is a quote on multiple lines
-> 1
-> 2
-> 3
+> This type of project is called a [[digital garden/Digital Garden\|Digital Garden]]
